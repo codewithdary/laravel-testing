@@ -6,7 +6,7 @@ The following documentation is based on my [Laravel Testing for Beginners]() tut
 •	Instagram: [@codewithdary](https://www.instagram.com/codewithdary/) <br>
 
 ## Usage <br>
-Setup your coding envrionment <br>
+Setup your coding environment <br>
 ```
 git clone git@github.com:codewithdary/laravel8-tailwindcss2.git
 cd laravel8-tailwindcss2
