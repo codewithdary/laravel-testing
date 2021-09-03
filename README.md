@@ -1,4 +1,4 @@
-## Laravel Testing 101
+## Testing in Laravel
 
 The following documentation is based on my [Laravel Testing for Beginners]() tutorial we’re going to cover the basics of testing, unit tests, feature tests, HTTP tests, database tests and seeder testing in Laravel. <br> <br>
 •	Author: [Code With Dary](https://github.com/codewithdary) <br>
