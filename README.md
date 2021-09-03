@@ -50,10 +50,10 @@ We can all agree that testing is a good thing, whether you’re a developer, doc
 Instead of setting your test environment manually, Laravel has ```PHPunit``` integrated by default. ```PHPunit``` is a framework independent library that can be used for unit testing.
 
 ### What is unit testing?
-Unit testing is a method that you can use where small pieces of code will be tested against expected results. If you’re new to testing, you might wonder when you’ll be using it. Think about the following three situations:
-•	Crawling your site’s URI
-•	Test when submitting forms
-•	Tests on status codes
+Unit testing is a method that you can use where small pieces of code will be tested against expected results. If you’re new to testing, you might wonder when you’ll be using it. Think about the following three situations: <br>
+•	Crawling your site’s URI <br>
+•	Test when submitting forms <br>
+•	Tests on status codes <br>
 
 ## Testing basics
 During this tutorial (and the next one as well), you’ll be hearing some new terms that you might not have heard before. Let’s go over a couple of them before we move into coding.
